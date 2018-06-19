@@ -161,7 +161,7 @@
         {
             "name": "1632.2.1",
             "images": {
-                "hda_disk_image": "coreos_production_qemu_image.1576.4.0.img"
+                "hda_disk_image": "coreos_production_qemu_image.1632.2.1.img"
             }
         },
         {
